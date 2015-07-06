@@ -15,3 +15,9 @@
 /log/*
 !/log/.keep
 /tmp
+
+doc/api
+doc/app
+*.swp
+*~
+.DS_Store
